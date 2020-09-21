@@ -1,25 +1,26 @@
-Wolf^2
+# Wolf^2
 
 Programming:
-Ari Blondal
+- Ari Blondal
 
 Artwork:
-Ari Blondal
-Cindi Feng
-Miranda Lin
-Chris Qin
-Jesse Rose
-Toshi Schulte
+- Ari Blondal
+- Cindi Feng
+- Miranda Lin
+- Chris Qin
+- Jesse Rose
+- Toshi Schulte
 
 Music:
-Jesse Rose
+- Jesse Rose
 
 Sound Effects:
-Toshi Schulte
+- Toshi Schulte
 
 Level Design:
-Chris Qin
-Jesse Rose
+- Chris Qin
+- Jesse Rose
 
 Creative Director:
-Don't make me laugh
+- Don't make me laugh
+
