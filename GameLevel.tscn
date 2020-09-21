@@ -1,4 +1,4 @@
-[gd_scene load_steps=13 format=2]
+[gd_scene load_steps=14 format=2]
 
 [ext_resource path="res://Wolf.tscn" type="PackedScene" id=1]
 [ext_resource path="res://TileMap.tscn" type="PackedScene" id=2]
@@ -9,6 +9,7 @@
 [ext_resource path="res://Lighting/light.png" type="Texture" id=7]
 [ext_resource path="res://Progress.tscn" type="PackedScene" id=8]
 [ext_resource path="res://cloud1.tscn" type="PackedScene" id=9]
+[ext_resource path="res://gimpassets/Wolf_Controls.png" type="Texture" id=10]
 
 [sub_resource type="Shader" id=1]
 code = "shader_type spatial;
@@ -139,3 +140,7 @@ tile_data = PoolIntArray( 458779, 11, 0, 458780, 11, 0, 458781, 11, 0, 524315, 1
 position = Vector2( 1912.77, 896.908 )
 scale = Vector2( 1, 4 )
 nextLevel = "testttesssss.tscn"
+
+[node name="Wolf_Controls" type="Sprite" parent="."]
+position = Vector2( 511.263, 650.748 )
+texture = ExtResource( 10 )
