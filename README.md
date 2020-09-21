@@ -24,3 +24,4 @@ Level Design:
 Creative Director:
 - Don't make me laugh
 
+To play the game:
